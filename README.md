@@ -118,6 +118,3 @@ Após isso, o aplicativo será aberto automaticamente no navegador.
 
 Projeto desenvolvido para fins de estudo e evolução em **Inteligência Artificial**, **Python** e **desenvolvimento de aplicações web**.
 
----
-
-⭐ Se este projeto te ajudou, considere dar uma estrela no repositório!
